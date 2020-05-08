@@ -1,27 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Dallen\\source\\repos\\MBFastDialogue\\MBFastDialogue\\MBFastDialogue.csproj": {}
+    "D:\\Users\\Johannes\\git\\MBFastDialogue\\MBFastDialogue.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Dallen\\source\\repos\\MBFastDialogue\\MBFastDialogue\\MBFastDialogue.csproj": {
+    "D:\\Users\\Johannes\\git\\MBFastDialogue\\MBFastDialogue.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Dallen\\source\\repos\\MBFastDialogue\\MBFastDialogue\\MBFastDialogue.csproj",
+        "projectUniqueName": "D:\\Users\\Johannes\\git\\MBFastDialogue\\MBFastDialogue.csproj",
         "projectName": "MBFastDialogue",
-        "projectPath": "C:\\Users\\Dallen\\source\\repos\\MBFastDialogue\\MBFastDialogue\\MBFastDialogue.csproj",
-        "packagesPath": "C:\\Users\\Dallen\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Dallen\\source\\repos\\MBFastDialogue\\MBFastDialogue\\obj\\",
+        "projectPath": "D:\\Users\\Johannes\\git\\MBFastDialogue\\MBFastDialogue.csproj",
+        "packagesPath": "D:\\Users\\Johannes\\.nuget\\packages\\",
+        "outputPath": "D:\\Users\\Johannes\\git\\MBFastDialogue\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Dallen\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "D:\\Users\\Johannes\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -59,7 +57,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
         }
       }
     }
